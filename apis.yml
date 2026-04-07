@@ -1,7 +1,11 @@
 aid: puget-energy
-url: https://raw.githubusercontent.com/api-evangelist/puget-energy/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/puget-energy/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.puget-energy.com
+description: >-
+  Puget Energy is the parent company of Puget Sound Energy, a regulated electric and
+  natural gas utility serving customers in Washington state.
