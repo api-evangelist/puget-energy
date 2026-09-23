@@ -1,7 +1,9 @@
 ---
 title: SUSTAINABILITY REPORT
 url: https://www.pse.com/-/media/PDFs/Sustainability/2025_PSERY24SustainabilityReport.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Puget Energy" press release artificial intelligence'
 position: 5
 source: serpapi-google
